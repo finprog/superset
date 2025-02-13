@@ -5361,7 +5361,7 @@ msgid "Filter menu"
 msgstr "Filter-Menü"
 
 msgid "Filter name"
-msgstr "Tabellenname"
+msgstr "Filter-Name"
 
 msgid "Filter only displays values relevant to selections made in other filters."
 msgstr ""
